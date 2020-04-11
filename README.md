@@ -10,11 +10,11 @@ If there is not a 'Winning' path in a tree, you will have to output the contents
 
 **Example 1: tree with a 'winning' path** (see Example 1 Tree above)
 
-![**Example 1: tree with a 'winning' path**](https://acm.cs.nthu.edu.tw/media/uploads/2019/04/17/example-1.PNG)
+![](https://github.com/pablomp3/Data-Structures---Tic-Tac-Toe-Tree/blob/master/example-1_tree.png)
 
 **Example 2: Tree without a 'winning' path** (see Example Tree 2 above)
 
-
+![](https://github.com/pablomp3/Data-Structures---Tic-Tac-Toe-Tree/blob/master/example-2_tree.png)
 
 ## Input
 * An integer n followed by a new line, indicating the number of nodes to insert in the tree
@@ -35,9 +35,13 @@ The tic-tac-toe gris positions are illustrated below:
 | (0,1) | (1,1) | (2,1) |
 | (0,2) | (1,2) | (2,2) |
 
-**Example 1: Input for tree with a 'winning path'** (see Example 1 Input above)
+**Example 1: Input for tree with a 'winning path'** (see Sample Input 1 above)
 
-**Example 2: Input for tree without a 'winning path'** (see Example 2 Input above)
+![](https://github.com/pablomp3/Data-Structures---Tic-Tac-Toe-Tree/blob/master/sample-input-1.png)
+
+**Example 2: Input for tree without a 'winning path'** (see Sample Input 2 above)
+
+![](https://github.com/pablomp3/Data-Structures---Tic-Tac-Toe-Tree/blob/master/sample-input-2.png)
 
 
 ## Output
@@ -50,10 +54,13 @@ The tic-tac-toe gris positions are illustrated below:
   * For each node, traversed in postorder traversal, output:
     * Position x, position y and Mark{O, X}, separated by whitespaces, followed by new line
     
-**Example 1: Output for tree with a 'winning' path** (see Example 1 Output above)
+**Example 1: Output for tree with a 'winning' path** (see Sample Output 1 above)
 
-**Example 2: Output for tree without a 'winning path** (see Example 2 Output above)
+![](https://github.com/pablomp3/Data-Structures---Tic-Tac-Toe-Tree/blob/master/sample-output-1.png)
 
+**Example 2: Output for tree without a 'winning path** (see Sample Output 2 above)
+
+![](https://github.com/pablomp3/Data-Structures---Tic-Tac-Toe-Tree/blob/master/sample-output-2.png)
 
 
 ## Sample Input  
