@@ -10,6 +10,8 @@ If there is not a 'Winning' path in a tree, you will have to output the contents
 
 **Example 1: tree with a 'winning' path** (see Example 1 Tree above)
 
+![**Example 1: tree with a 'winning' path**](https://acm.cs.nthu.edu.tw/media/uploads/2019/04/17/example-1.PNG)
+
 **Example 2: Tree without a 'winning' path** (see Example Tree 2 above)
 
 
